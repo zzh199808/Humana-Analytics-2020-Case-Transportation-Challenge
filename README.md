@@ -6,7 +6,7 @@ Team Imperial Data Force
 * Robust to outliers
 * Quick speed
 * Low bias 
-* Bootstrap class weighting for imbalanced class
+* Bootstrap class weighting for imbalanced class  
   The shape of the training dataset indicates a potential dimensionality reduction problem. Additionally, imbalanced class, the distribution of outliers, NAs and “others” tend to cause bias during the removal or imputation of those unspecified or unobserved data. All in all, random forest classification is the approach we believe will bring the best fit to the dataset we had.
 ## Data Cleaning and Preparation 
   In order to clean the training dataset to meet the tidy data standard, we first look at missing values and anomalies by row and column. We conclude that NAs are very likely to be missing-not-at-random, which means pure removal will cause bias. Then we come to the conclusion that imputation with K-nearest neighbours is difficult to realize due to high dimensionality. As a result, imputation with mean for numeric features is applied and one-hot encoding method is applied to deal with NAs and anomalies for object-type features. 
