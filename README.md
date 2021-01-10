@@ -22,3 +22,14 @@ The shape of the training dataset indicates a potential dimensionality reduction
 We first use train_test_split from sklearn to divide the training dataset into train dataset and test dataset by 0.7:0.3, of which higher than default test-data size is chosen to mitigate overfitting. The overall accuracy is 97.65%.
 
 ![alt text](https://github.com/zzh199808/Humana-Analytics-2020-Case-Transportation-Challenge/blob/main/Confusion%20Matrix.png)
+
+* Out of the true values=1, 98.7% members are predicted correctly while 1.3% are incorrect. 
+* Out of the true values=0, 96.6% members are predicted correctly while 3.4% are incorrect.
+* Out of the predicted values=1, 99% members have true value=1 while 1% have true values=0.
+* Out of the predicted values=0, 97% members have true value=0 while 3% have true values=1.
+
+![alt text](https://github.com/zzh199808/Humana-Analytics-2020-Case-Transportation-Challenge/blob/main/Classification%20Report.JPG)
+
+The graph below shows the classification report, indicating f1-score, precision, and recall are all pretty good and the classification model we trained is robust.
+
+
