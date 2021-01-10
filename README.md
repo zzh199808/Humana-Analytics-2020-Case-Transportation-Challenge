@@ -17,4 +17,8 @@ The shape of the training dataset indicates a potential dimensionality reduction
   Among numeric variables, binary ones were identified and dealt with the way as object variables to retain NAs and outliers. Others are considered continuous values by nature. Additionally, the location-related features, such as state, county and zip-code, are specially treated. They are linked with external data of the 2020 US hospital census. Hospitals throughout the US are grouped by county code. The number of hospitals in each county is calculated and then merged with the training dataset on the county code column, which is formulated by combining the cnty_cd and the state_cd of the training dataset.
   
   We also observe that the training dataset is imbalanced. Only 14.66% of the patients claim to have transportation challenges. Oversampling of the minority class is applied to make full use of the rich data volume. We then use the mean ROC-AUC score across all folds and repeats, confusion matrix, and f1-score to evaluate the performance of the model.
+
+## Data Modeling
+We first use train_test_split from sklearn to divide the training dataset into train dataset and test dataset by 0.7:0.3, of which higher than default test-data size is chosen to mitigate overfitting. The overall accuracy is 97.65%.
+
 ![alt text](https://github.com/zzh199808/Humana-Analytics-2020-Case-Transportation-Challenge/blob/main/Confusion%20Matrix.png)
