@@ -59,4 +59,23 @@ Members are more likely to experience transportation challenges:
 5. Disability: Disabled members are more likely to face transportation issues, they require more accommodations. 
 6. Have financial issues: Members who have financial issues tend to encounter difficulties in transportation. Financial problems include loans, debt, mortgages, etc.
 
+## Recommendations
+Based on our previous analysis, our team came up with below recommendations to overcome the transportation barrier for members to access care and achieve their best health. 
+1. Members with Prescriptions
+* Mail Delivery
+Humana could focus more on on-time mail delivery systems. Such a system will dramatically reduce their visits to the pharmacy, which will minimize transportation risks. Specifically, the company could create a customer survey on their delivery needs that linked to the members account. The member could customize their deliverdy time and frequency based on their preferences and doctor’s suggestions. 
+* Virtual Doctor Appointment
+Customers could schedule phone calls and video chat with their preferred doctors. By connecting to doctors online, members would save the trip to pharmacies. After diagnosis with the doctor, members could order the prescriptions online and receive them in mail. 
+2. Senior Members
+* Scheduled Shuttle Bus Service 
+Humana could partner with transportation companies, such as uber, lyft, etc. to provide scheduled shuttle bus service. Drivers will pick up members who have appointments  and drop them off at the designate hospital. Also, the hospital could provide special time slots for seniors to schedule an appointment in the early morning, for example, from 8am to 9am since seniors tend to wake up earlier than others. Such arrangements could significantly reduce seniors transportation issues and wait time within the hospital. 
+3. Members with Chronic Disease
+* Omni Channels Access
+Humana could create omni channels doctor appointments for members, including virtual call, phone call, online chat, etc. These will not only enable more timely, effective communications between members and doctors but also prevent unneeded trips to hospitals.  Moreover, we recommend Humana to develop a new feature on the Humana mobile app and website to record members' symptoms on a daily basis. Their personal doctor could have access to these files based on members’ consensus. It is easier for doctors to keep track of the members health condition and provide feedback through the app and website. With omni channel access, members will not only have efficient communication with doctors but also reduce the risk of encountering transportation problems. 
+4. Members with Financial Issues (e.g. Low Income, Debts, Loan, etc.)
+* Endowment
+Humana could start an endowment to provide financial assistance for the members who have financial difficulties. This endowment will allow Humana to invest meaningfully in the communities and help those in need to address income disparities. For example, Humana could provide copay waivers and other proactive actions for certain segments of members who are severely experiencing financial hardship. Members could apply online for financial assistance by providing detailed documentation and ID. Humana Foundation will review these applications and select those who are qualified to receive certain financial aids.  
+5. Disability
+* Home-based Care Model
+Humana could develop a home-based care model to shift the focus from on site to home based care model. This model will include simple emergency room and hospital care features to ensure members can handle specific medical problems at home instead of hurrying to the hospital. Home-based care models would avoid secondary infections at hospitals such as flu and COVID-19. Moreover, this model would help Humana to offer high-quality and value-based primary care for patients even at home. 
 
