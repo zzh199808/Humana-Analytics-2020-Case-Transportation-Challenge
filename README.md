@@ -79,3 +79,6 @@ Humana could start an endowment to provide financial assistance for the members 
 * Home-based Care Model\
 Humana could develop a home-based care model to shift the focus from on site to home based care model. This model will include simple emergency room and hospital care features to ensure members can handle specific medical problems at home instead of hurrying to the hospital. Home-based care models would avoid secondary infections at hospitals such as flu and COVID-19. Moreover, this model would help Humana to offer high-quality and value-based primary care for patients even at home. 
 
+## Business Value
+From the training set, we can see there are 14 percent incorrect predictions of which will not continue to use Humana health service because they have transportation issues. With our prediction model, we are able to reduce the incorrect prediction to 3 percent and the remaining 11 percent of Humana users are likely to stick to Humana health services and possibly to avoid 12 million loss. 
+
