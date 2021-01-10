@@ -51,5 +51,12 @@ Other Financial Issues: The financial issues that members who are experiencing a
 student loans, bank loans, mortgage, and debt, etc. Members who are facing such issues are less likely to spend money on transportations. They tend to rely on public transportation, which could lead to potential commuting problems. 
 
 ## Insights
+Members are more likely to experience transportation challenges:
+1. Have the demand for prescription drugs: members who are enrolled in Medicare Part D, elder members, etc. 
+2. Elder members: Age above 64.5 years old. 
+3. Suffer from chronic disease or have poor health: members with higher Rx risk score or higher adjustment payment rate require ongoing medical attention; they tend to have a higher frequency to visit doctors. 
+4. Low income: members with low income are more likely to encounter transportation problems.
+5. Disability: Disabled members are more likely to face transportation issues, they require more accommodations. 
+6. Have financial issues: Members who have financial issues tend to encounter difficulties in transportation. Financial problems include loans, debt, mortgages, etc.
 
 
