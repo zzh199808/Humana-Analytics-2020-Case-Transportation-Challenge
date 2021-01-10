@@ -67,7 +67,7 @@ Humana could focus more on on-time mail delivery systems. Such a system will dra
 * Virtual Doctor Appointment\
 Customers could schedule phone calls and video chat with their preferred doctors. By connecting to doctors online, members would save the trip to pharmacies. After diagnosis with the doctor, members could order the prescriptions online and receive them in mail. 
 2. Senior Members
-* Scheduled Shuttle Bus Service\ 
+* Scheduled Shuttle Bus Service\
 Humana could partner with transportation companies, such as uber, lyft, etc. to provide scheduled shuttle bus service. Drivers will pick up members who have appointments  and drop them off at the designate hospital. Also, the hospital could provide special time slots for seniors to schedule an appointment in the early morning, for example, from 8am to 9am since seniors tend to wake up earlier than others. Such arrangements could significantly reduce seniors transportation issues and wait time within the hospital. 
 3. Members with Chronic Disease
 * Omni Channels Access\
